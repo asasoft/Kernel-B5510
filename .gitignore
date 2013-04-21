@@ -54,6 +54,11 @@ common/vmlinuz
 common/System.map
 common/Module.markers
 common/Module.symvers
+common/scripts/basic/docproc
+common/scripts/basic/fixdep
+common/scripts/basic/hash
+common/scripts/kconfig/conf
+common/scripts/kconfig/mconf
 
 #
 # git files that we don't want to ignore even it they are dot-files
