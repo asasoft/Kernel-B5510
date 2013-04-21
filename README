@@ -8,8 +8,7 @@ Netfilter support for Droidwall
 init.d support (Install Busybox with run-parts and create /system/etc/init.d folder)
 Fix bcmsdhc driver wake locks prevent deep sleep (bcm_sdhc.3 wake lock)
 Fix Frequency Table (CpuSpy, SetCPU and others work now)
-New freq added 312 624 832 Mhz
-
+Ondemand governor added
 
 Thanks and credits to :
 
