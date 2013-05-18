@@ -62,6 +62,10 @@ include/config/auto.conf
 include/generated/autoconf.h
 include/generated/compile.h
 kernel/config_data.h
+common/scripts/basic/docproc
+common/scripts/basic/fixdep
+common/scripts/basic/hash
+common/scripts/kconfig/conf
 
 # stgit generated dirs
 patches-*

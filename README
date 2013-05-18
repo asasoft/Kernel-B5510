@@ -2,6 +2,7 @@ Samsung Galaxy Pro Young GT-B5510 and GT-B5510L OpenSource Kernel 2.6.35.7 UPDAT
 
 Features and fixes.
 
+Swap support
 I/O Schedulers  CFQ , Deadline , No-op default
 Ext3/Ext4 Support (Mount scripts not included)
 Netfilter support for Droidwall
