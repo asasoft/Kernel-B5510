@@ -1,3 +1,5 @@
+
+
 Samsung Galaxy Pro Young GT-B5510 and GT-B5510L OpenSource Kernel 2.6.35.7 UPDATE1
 
 Features and fixes.
@@ -16,3 +18,10 @@ Thanks and credits to :
 irfanbagus@xda
 harish2704@xda
 MarcoToo@xda
+
+
+Don't decompress or modify the downloaded file. Open Odin (v1.84 recommended) put your phone in download mode and connect your usb cable,
+open PDA box and select the file. Start Flash.
+
+Download :
+https://github.com/asasoft/Kernel-B5510/releases
